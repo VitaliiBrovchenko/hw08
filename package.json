@@ -1,0 +1,29 @@
+{
+  "name": "hw08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiBrovchenko/hw08.git"
+  },
+  "author": "VitaliiBrovchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliiBrovchenko/hw08/issues"
+  },
+  "homepage": "https://github.com/VitaliiBrovchenko/hw08#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.0",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
